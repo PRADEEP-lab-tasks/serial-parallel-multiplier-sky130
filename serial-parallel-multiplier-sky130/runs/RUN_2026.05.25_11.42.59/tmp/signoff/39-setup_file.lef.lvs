@@ -1,0 +1,1 @@
+lvs {/openlane/designs/spm/runs/RUN_2026.05.25_11.42.59/results/signoff/spm.spice spm} {/openlane/designs/spm/runs/RUN_2026.05.25_11.42.59/tmp/signoff/36-spm.pnl.v spm} /home/loganathan/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/spm/runs/RUN_2026.05.25_11.42.59/logs/signoff/39-spm.lef.lvs.log -json
