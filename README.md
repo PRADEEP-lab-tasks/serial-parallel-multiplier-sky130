@@ -1,7 +1,9 @@
 # Serial-Parallel Multiplier on Sky130 (OpenLane Flow)
 
-This repository contains a parameterized **Serial-Parallel Multiplier (SPM)** implemented in Verilog and synthesized using the **OpenLane flow** targeting the **SkyWater SKY130 nm PDK**. It demonstrates an end‑to‑end ASIC design flow: from RTL and testbench simulation through synthesis, floorplanning, placement, routing, and signoff.
+This repository contains a parameterized Serial-Parallel Multiplier (SPM) implemented in Verilog and synthesized using the **OpenLane flow** targeting the SkyWater SKY130 nm PDK. It demonstrates an end‑to‑end ASIC design flow: from RTL and testbench simulation through synthesis, floorplanning, placement, routing, and signoff.
 
+-----
+ This Project Engineer is PRADEEP he knows little about designs so expect little in this project
 ---
 
 ## 📂 Repository Structure
