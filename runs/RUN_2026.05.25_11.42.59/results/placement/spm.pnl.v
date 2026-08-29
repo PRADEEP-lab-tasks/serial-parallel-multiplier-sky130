@@ -3190,3 +3190,4 @@ module spm (clk,
     .VPWR(VPWR),
     .X(p));
 endmodule
+
