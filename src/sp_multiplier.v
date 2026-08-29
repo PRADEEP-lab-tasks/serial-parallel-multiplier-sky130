@@ -131,10 +131,7 @@ module spm_tb;
 		x = 50;
 
 	//Reset
-		#20 rst = 1;
-		#20 rst = 0;
-        #1000;
-        $finish;
+
 	end
 
 endmodule
