@@ -23,7 +23,6 @@ This repository contains a parameterized Serial-Parallel Multiplier (SPM) implem
 ---
 
 
-
 ### Prerequisites
 - Docker installed and configured
 - OpenLane environment set up
